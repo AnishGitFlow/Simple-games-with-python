@@ -173,6 +173,3 @@ Feel free to open an issue or submit a pull request if you have suggestions or i
 ## Contact
 
 For any questions or feedback, please contact asc14088@gmail.com
-```
-
-This combined `README.md` provides a comprehensive overview of all the code snippets you’ve provided, including installation, usage, and file details for each script. Adjust the file names and email contact as necessary.
