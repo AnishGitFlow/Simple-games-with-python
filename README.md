@@ -162,10 +162,6 @@ A graphical Hangman game using Tkinter and images to represent incorrect guesses
 
 2. Guess letters via Tkinter dialogs and view the hangman images.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 Feel free to open an issue or submit a pull request if you have suggestions or improvements for any of the games.
